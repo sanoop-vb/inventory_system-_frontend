@@ -1,0 +1,12 @@
+.create-product form {
+    margin: 20px auto;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.create-product input,
+.create-product button {
+    margin: 10px 0;
+    padding: 10px;
+}
